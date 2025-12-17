@@ -14,7 +14,7 @@
   <link rel="shortcut icon" href="front_end/images/favicon.png" type="image/x-icon">
 
   <title>
-    Giftos
+    MrCream007 Stores
   </title>
 
   <!-- slider stylesheet -->
@@ -36,7 +36,7 @@
       <nav class="navbar navbar-expand-lg custom_nav-container ">
         <a class="navbar-brand" href="index.html">
           <span>
-            Giftos
+            MrCream007 Stores
           </span>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
